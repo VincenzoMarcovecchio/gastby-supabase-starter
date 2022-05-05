@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="./src/static/compare.png" width="60" />
+    <img alt="Gatsby" src="https://raw.githubusercontent.com/VincenzoMarcovecchio/gastby-supabase-starter/main/static/compare.png" width="650" height="350" />
   </a>
 </p>
 <h1 align="center">
