@@ -19,7 +19,7 @@
     "gatsby-plugin-create-client-paths": "^4.9.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-router-dom": "^6.3.0"
+    "react-router-dom": "^6.3.0" //im not actually using it
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
